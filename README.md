@@ -12,5 +12,6 @@ The repository contains the following documents besides README.md:
 ###3. meanData.txt: this is the mean value of the scaled mean and standard deviation of the measuring results, for each volunteer and each activity, in .txt format
 ###4. meanData.csv: this is the mean value of the scaled mean and standard deviation of the measuring results, for each volunteer and each activity, in .csv format
 ###5. run_analysis.R: this is the code used to clean the data and genearte the tidyData, meanData.
+###6. Code Book.pdf: this is the dictionary used to know the meanning of all variables.
 When using the run_analysis.R, please download all the documents in the link above, and un-zip all the documents in the workspace of R.
 Then, run the run_analysis.R file, the clean data can be obtained.
